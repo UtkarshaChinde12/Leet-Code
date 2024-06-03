@@ -19,3 +19,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0326-power-of-three) |
+# Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0035-search-insert-position) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0035-search-insert-position) |
