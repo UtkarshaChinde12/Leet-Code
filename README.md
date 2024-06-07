@@ -39,3 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0283-move-zeroes) |
+# String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0058-length-of-last-word) |
