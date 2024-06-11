@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/1013-fibonacci-number) |
 # Simulation
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0326-power-of-three](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/1013-fibonacci-number) |
 # Array
 |  |
 | ------- |
@@ -49,3 +51,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0058-length-of-last-word](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0344-reverse-string) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/1013-fibonacci-number) |
