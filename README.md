@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0344-reverse-string) |
 # Dynamic Programming
@@ -59,3 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/1013-fibonacci-number) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0014-longest-common-prefix) |
