@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0414-third-maximum-number) |
 # Binary Search
 |  |
 | ------- |
@@ -64,3 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0014-longest-common-prefix) |
+# Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0414-third-maximum-number) |
