@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0342-power-of-four) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0344-reverse-string) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0169-majority-element) |
 # Divide and Conquer
 |  |
