@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0035-search-insert-position) |
+| [0128-longest-consecutive-sequence](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0169-majority-element) |
 # Divide and Conquer
 |  |
@@ -88,3 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0169-majority-element) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
