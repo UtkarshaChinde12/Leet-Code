@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0485-max-consecutive-ones) |
 # Binary Search
 |  |
 | ------- |
