@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0742-to-lower-case) |
 # Dynamic Programming
 |  |
 | ------- |
