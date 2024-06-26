@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [1019-squares-of-a-sorted-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 # Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1019-squares-of-a-sorted-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 # String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/UtkarshaChinde12/LeetCode./tree/master/0414-third-maximum-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 # Hash Table
 |  |
 | ------- |
