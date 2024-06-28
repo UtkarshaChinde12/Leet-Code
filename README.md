@@ -107,3 +107,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3194-find-words-containing-character) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3194-find-words-containing-character) |
+<!---LeetCode Topics End-->
