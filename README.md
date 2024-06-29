@@ -112,9 +112,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
 | ------- |
+| [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3194-find-words-containing-character) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
