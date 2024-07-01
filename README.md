@@ -113,11 +113,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3312-number-of-changing-keys) |
 ## Hash Table
