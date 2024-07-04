@@ -137,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
