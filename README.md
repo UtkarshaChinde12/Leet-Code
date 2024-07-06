@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
+| [2714-left-and-right-sum-differences](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3194-find-words-containing-character) |
@@ -143,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
