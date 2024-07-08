@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2714-left-and-right-sum-differences) |
@@ -151,5 +152,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
