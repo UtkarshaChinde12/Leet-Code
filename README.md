@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1580-shuffle-the-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [2058-concatenation-of-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2159-two-out-of-three) |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
