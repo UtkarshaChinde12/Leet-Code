@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2159-two-out-of-three) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2727-number-of-senior-citizens) |
@@ -144,12 +145,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2159-two-out-of-three) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
@@ -173,8 +176,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2058-concatenation-of-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2159-two-out-of-three](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2159-two-out-of-three) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
