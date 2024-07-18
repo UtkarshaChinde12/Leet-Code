@@ -189,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
