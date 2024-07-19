@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1651-shuffle-string](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2159-two-out-of-three) |
