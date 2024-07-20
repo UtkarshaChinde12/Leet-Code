@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0822-unique-morse-code-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0822-unique-morse-code-words) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1580-shuffle-the-array) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0822-unique-morse-code-words) |
 | [1651-shuffle-string](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0822-unique-morse-code-words) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2159-two-out-of-three) |
