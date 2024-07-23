@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0595-big-countries) |
+| [1827-invalid-tweets](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1827-invalid-tweets) |
 ## Matrix
 |  |
 | ------- |
