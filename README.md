@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0822-unique-morse-code-words) |
 | [1651-shuffle-string](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1651-shuffle-string) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2727-number-of-senior-citizens) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
