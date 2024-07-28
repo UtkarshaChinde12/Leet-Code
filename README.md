@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0822-unique-morse-code-words) |
 | [1651-shuffle-string](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2502-sort-the-people) |
