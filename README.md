@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0782-jewels-and-stones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0822-unique-morse-code-words) |
+| [0953-reverse-only-letters](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [1651-shuffle-string](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -212,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0953-reverse-only-letters](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0953-reverse-only-letters) |
 <!---LeetCode Topics End-->
