@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1848-sum-of-unique-elements) |
@@ -237,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
