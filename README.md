@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [2159-two-out-of-three](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2159-two-out-of-three) |
 ## Greedy
 |  |
@@ -245,4 +246,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1656-count-good-triplets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
