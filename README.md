@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0728-self-dividing-numbers](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0728-self-dividing-numbers) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -244,11 +245,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0206-reverse-linked-list) |
 ## Enumeration
 |  |
