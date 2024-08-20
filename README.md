@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0782-jewels-and-stones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0822-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0953-reverse-only-letters) |
@@ -263,4 +264,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
