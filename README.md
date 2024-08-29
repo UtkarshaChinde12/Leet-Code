@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0066-plus-one) |
 | [0728-self-dividing-numbers](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0728-self-dividing-numbers) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [2556-convert-the-temperature](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Prefix Sum
 |  |
