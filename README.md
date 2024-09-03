@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0067-add-binary) |
 | [0782-jewels-and-stones](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0822-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0953-reverse-only-letters) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0067-add-binary) |
 | [0728-self-dividing-numbers](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0728-self-dividing-numbers) |
 | [1635-number-of-good-pairs](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2491-smallest-even-multiple) |
@@ -209,12 +211,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [2159-two-out-of-three](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2159-two-out-of-three) |
 ## Greedy
