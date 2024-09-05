@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2058-concatenation-of-array) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
