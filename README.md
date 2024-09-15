@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0596-classes-more-than-5-students) |
+| [0610-triangle-judgement](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
