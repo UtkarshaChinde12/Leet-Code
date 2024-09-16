@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0822-unique-morse-code-words](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0822-unique-morse-code-words) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/UtkarshaChinde12/Leet-Code/tree/master/1894-merge-strings-alternately) |
